@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "Vibe coding on your mobile phone. A modular, self-evolving AI-powered system for Termux in your phone, designed to control the device and automate complex tasks, create apps in seconds. If you can imagine it, the AI Agent can build it, execute it, and expand the system's own capabilities."
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
+# handle the edge case from the last release
